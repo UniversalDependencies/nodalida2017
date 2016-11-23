@@ -177,7 +177,7 @@ header li {
 
 header ul a {
   line-height:1;
-  font-size:11px;
+  font-size:13px;
   color:#999;
   padding-top:6px;
   height:34px;
@@ -191,6 +191,13 @@ header ul a:active {
   background-color:#f0f0f0;
 }
 
+header ul span {
+  line-height:1;
+  font-size:13px;
+  color:#999;
+  padding-top:6px;
+  height:34px;
+}
 strong {
   color:#222;
   font-weight:700;
